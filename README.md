@@ -1,4 +1,4 @@
-# Warden Cachet Integration
+# Warden HttpApi Integration
 
 ![Warden](http://spetz.github.io/img/warden_logo.png)
 
@@ -8,8 +8,8 @@
 
 |Branch             |Build status                                                  
 |-------------------|-----------------------------------------------------
-|master             |[![master branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.Cachet.svg?branch=master)](https://travis-ci.org/warden-stack/Warden.Integrations.Cachet)
-|develop            |[![develop branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.Cachet.svg?branch=develop)](https://travis-ci.org/warden-stack/Warden.Integrations.Cachet/branches)
+|master             |[![master branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.HttpApi.svg?branch=master)](https://travis-ci.org/warden-stack/Warden.Integrations.HttpApi)
+|develop            |[![develop branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.HttpApi.svg?branch=develop)](https://travis-ci.org/warden-stack/Warden.Integrations.HttpApi/branches)
 
 **HttpApiIntegration** can be used for making a POST request to the own/custom API or the Warden Web Panel via the provided helper methods. You may include any data while making the POST request and for example create your own webhooks that will be invoked under specific conditions.
 
