@@ -7,7 +7,7 @@ using Warden.Integrations.HttpApi;
 using Machine.Specifications;
 using It = Machine.Specifications.It;
 
-namespace Warden.Tests.Integrations.HttpApi
+namespace Warden.Integrations.HttpApi.Tests
 {
     public class HttpApiIntegration_specs
     {
